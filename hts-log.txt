@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Jan 2023 13:53:50 at http://themesbrand.com/skote/layouts/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themesbrand.com/skote/layouts/index.html -O1 "C:\laragon\www\templates\templateSkote" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:07:53	Warning: 	File not parsed, looks like binary: themesbrand.com/skote/layouts/assets/fonts/materialdesignicons-webfont.woff2?v=5.8.55
+14:07:53	Warning: 	File not parsed, looks like binary: themesbrand.com/skote/layouts/assets/fonts/boxicons.woff2
+14:07:53	Warning: 	File not parsed, looks like binary: themesbrand.com/skote/layouts/assets/fonts/fa-brands-400.woff2
+14:07:53	Warning: 	File not parsed, looks like binary: themesbrand.com/skote/layouts/assets/fonts/fa-regular-400.woff2
+14:07:53	Warning: 	File not parsed, looks like binary: themesbrand.com/skote/layouts/assets/fonts/fa-solid-900.woff2
+14:08:02	Error: 	"Not Found" (404) at link themesbrand.com/skote/layouts/assets/libs/summernote/summernote-bs4.min.css (from themesbrand.com/skote/layouts/email-read.html)
+14:08:02	Error: 	"Not Found" (404) at link themesbrand.com/skote/layouts/assets/libs/flot.curvedLines/curvedLines.js (from themesbrand.com/skote/layouts/charts-flot.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 13 seconds : 441 links scanned, 438 files written (40780726 bytes overall) [23628445 bytes received at 27700 bytes/sec], 21535095 bytes transferred using HTTP compression in 313 files, ratio 19%, 5.3 requests per connection
+(2 errors, 5 warnings, 0 messages)
